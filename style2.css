@@ -1,0 +1,37 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url(image/backgroundimg.webp);
+    background-size: cover;
+}
+.Login{
+    border: 1px solid white;
+    padding: 50px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(213, 230, 233);
+}
+.h3{
+    text-align: center;
+}
+#button{
+    display: inline-block;
+   
+    background-color: rgb(56, 12, 232);
+    text-decoration: none;
+    width: 50%;
+    border: none;
+    height: 1.5em;
+    text-align: center;
+    font-size: 16px;
+    
+    
+    
+}

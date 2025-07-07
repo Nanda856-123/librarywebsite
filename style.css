@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url(image/bookimg.avif);
+    background-size: cover;
+}
+header{
+    background-color: rgb(18, 1, 1);
+}
+.container{
+    float: right;
+    margin-top: 15px;
+   margin-right: 50px;
+}
+.container a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(47, 63, 117);
+}
+a:hover{
+    background-color: bisque;
+    color: rgb(228, 224, 218);
+}
+.content{
+    color: rgb(200, 7, 14);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+    float: left;
+   font-size: medium;
+}
